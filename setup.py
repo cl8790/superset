@@ -80,7 +80,7 @@ setup(
         "flask-compress",
         "flask-talisman",
         "flask-migrate",
-        "flask-wtf",
+        "flask-wtf<0.15.0,>=0.14.2",
         "geopy",
         "graphlib-backport",
         "gunicorn>=20.0.2, <20.1",
