@@ -161,7 +161,7 @@ setup(
         "vertica": ["sqlalchemy-vertica-python>=0.5.9, < 0.6"],
         "netezza": ["nzalchemy>=11.0.2"],
     },
-    python_requires="~=3.7",
+    python_requires="~=3.8",
     author="Apache Software Foundation",
     author_email="dev@superset.apache.org",
     url="https://superset.apache.org/",
